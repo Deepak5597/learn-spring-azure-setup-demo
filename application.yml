@@ -1,2 +1,6 @@
 application:
   message: Configured be Spring Cloud Server
+
+demo:
+  welcome:
+    message: Hi, this message is getting retrieved from github configuration server
